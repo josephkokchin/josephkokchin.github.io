@@ -1,9 +1,9 @@
 # main text of home
 name: Rodolfo Ferro
-bio: A Man who travels the world eating noodles
+bio: "Tech lead @ #FutureLab · GitHub Campus Expert"
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: "Math student · Tech lead @ #FutureLab · 🚩 GitHub Campus Expert · xGSA · @ClubesCienciaMx · @defpodcastmx · #Python 💙🐍 · I'm the Spider-Man · #SoyUG"
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -36,21 +36,21 @@ disqus:
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 twitter: FerroRodolfo
-# google: mygoogle
+github: RodolfoFerro
+linkedin: rodolfoferro
+google: RodolfoFerro
+medium: FerroRodolfo
+email: rodolfoferroperez@gmail.com
+youtube: channel/UC3Q7iZXB950Bvtjpml9jqZg
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
 # spotify: myspotify
-github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: rodolfoferroperez@gmail.com
 
 authors:
     johndoe:
