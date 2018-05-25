@@ -12,12 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume: true
+resume-external: false
+resume-url: resume
 
 url: https://rodolfoferro.github.io
-# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
@@ -30,7 +29,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: rodolfoferro-github-io # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -53,18 +52,12 @@ youtube: channel/UC3Q7iZXB950Bvtjpml9jqZg
 # lanyrd: mylanyrd
 
 authors:
-    johndoe:
-        name: John Doe
+    rodferro:
+        name: Rodolfo Ferro
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: FerroRodolfo
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
