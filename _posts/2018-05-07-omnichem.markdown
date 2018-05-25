@@ -8,6 +8,7 @@ tag:
   - API
   - Chemistry
   - Webapp
+  - Heroku
 image: ../assets/posts/logo_v0.1.png
 headerImage: true
 projects: true
