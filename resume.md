@@ -6,8 +6,8 @@ title: Resume
 <style>
 .button {
   display: inline-block;
-  padding: 15px 25px;
-  font-size: 2em;
+  padding: 13px 25px;; margin-right:5px;
+  font-size: 1.2em;
   cursor: pointer;
   text-align: center;
   text-decoration: none;
@@ -31,8 +31,8 @@ title: Resume
 # My résumé
 
 <center>
-<a class="button"><span><img src="../assets/images/download.png" height="25px">  Full Version </span></a>
-<a class="button"><span><img src="../assets/images/download.png" height="25px">  Small Version </span></a>
+<a class="button"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  Full Size </span></a>
+<a class="button"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  One Page </span></a>
 </center>
 
 ---
