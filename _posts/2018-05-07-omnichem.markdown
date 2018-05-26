@@ -58,6 +58,8 @@ Visita nuestra landing page en el siguiente enlace: [https://rodolfoferro.github
 U obtén información de alguna molécula aleatoria en nuestra plataforma: [https://omnichem.herokuapp.com/](https://omnichem.herokuapp.com/)
 ![Random molecule](../assets/posts/randommol.png)
 
+**OmniChem** fue totalmente desarrollado por [Rodolfo Ferro](https://twitter.com/FerroRodolfo), [Ricardo Mirón](https://twitter.com/richard016) y [David Cortés](https://www.facebook.com/davidcs.mx).
+
 ---
 
 ## Requerimientos
