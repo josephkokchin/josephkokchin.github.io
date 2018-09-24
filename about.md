@@ -7,7 +7,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-> Math student · Tech lead @ [#FutureLab](https://www.facebook.com/f.lab.mx/) · 🚩 [GitHub Campus Expert](https://githubcampus.expert/RodolfoFerro/) · xGSA · [@ClubesCienciaMx](https://twitter.com/ClubesCienciaMx) · [@defpodcastmx](https://twitter.com/defpodcastmx) · #Python 💙🐍 · I'm the Spider-Man · [#SoyUG](https://twitter.com/UdeGuanajuato)
+> Math student · Tech lead @ [#FutureLab](https://www.facebook.com/f.lab.mx/) · 🚩 [GitHub Campus Expert](https://githubcampus.expert/RodolfoFerro/) · xGSA · [@ClubesCienciaMx](https://twitter.com/ClubesCienciaMx) · [@defpodcastmx](https://twitter.com/defpodcastmx) · #Python 🐍 · I'm the Spider-Man · [#SoyUG](https://twitter.com/UdeGuanajuato) [#CIMAT](https://twitter.com/cimatoficial) 🇲🇽
 
 <br>
 My name is [Rodolfo](https://twitter.com/FerroRodolfo/), but you may call me Rod. I am studying a BS in Mathematics at the [University of Guanajuato](http://www.ugto.mx/), although I've focused a bit on Computer Science.  I'm currently working on my thesis, which consists on developing an AI model to classify emotions with facial expressions in the wild. The idea is to propose a model which can be deployed in portable devices, such as a Raspberry Pi.
