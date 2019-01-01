@@ -1,7 +1,7 @@
 ---
 title: "Conecta un joystick analógico a Arduino en 3 simples pasos"
 layout: post
-date: 2018-12-11 09:30
+date: 2018-12-31 09:45
 published: true
 image: ../assets/posts/joystick_diagram.png
 headerImage: true
