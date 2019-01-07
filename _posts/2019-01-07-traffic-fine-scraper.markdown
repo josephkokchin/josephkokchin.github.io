@@ -70,7 +70,7 @@ At the begining, what we thought would be a project just for fun to work togethe
 
 As you have seen, Python has tools that help to automate some things in very cool ways. I mean, if you run the script as it is provided, you should see a browser window to open automatically, then the text gets written alone in the input field and the results are shown by their own. **Isn't this really awesome?**
 
-Please let me know what you do with Selenium and Python in the comments! 💻🐍🤙🏼
+Please let me know what you build with Selenium and Python in the comments! 💻🐍🤙🏼
 
 <!-- JS Imports for gist-embed: http://blairvanderhoof.com/gist-embed/ -->
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
