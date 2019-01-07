@@ -18,7 +18,7 @@ description: Building a traffic fine scraper with Python and Selenium
 
 <h2><span class="evidence">Motivation</span></h2>
 
-The other day I was remembering that during my visit to Mexico City back in June '17 (for my participation on the first edition of the [PythonDay México](https://rodolfoferro.xyz/pythondaymx/)), a [friend of mine](https://twitter.com/JMireles_) recieved me at his home for my stay. The thing is that during my stay we were talking about building something that could be useful, so we decided to scrap a website in which people with car plates from Mexico City would be able to verify their traffic fines.
+The other day I was remembering that during my visit to Mexico City back in June '17 (for my participation on the first edition of the [PythonDay México](https://rodolfoferro.xyz/pythondaymx/)), a [friend of mine](https://twitter.com/JMireles_) recieved me at his home for my stay. The thing is that during my stay we were talking about building something that could be useful, so we decided to scrape a website in which people with car plates from Mexico City would be able to verify their traffic fines.
 
 The website is the following: [http://www.multasdetransito.com.mx/infracciones/df-distrito-federal](http://www.multasdetransito.com.mx/infracciones/df-distrito-federal)
 
@@ -26,7 +26,7 @@ As you may have noticed if you opened the site, it contains an input to write do
 
 What my friend told me was that an issue for citizens in Mexico City is that just a small bunch of them are the ones who know about that site, so it might result useful to create something in which they can consult this info in an easier way.
 
-After this, I was like: *"Dude, today I held a workshop on how to build a TwitterBot in 30 minutes for the PythonDay, what if we build a TwitterBot that inputs the plate in the site and then scraps the info from it automatically?"*. He said yes. With this, we built [MultaBot](https://twitter.com/MultaBot/with_replies) a TwitterBot that used to read a car plate and scrap for its traffic fines.
+After this, I was like: *"Dude, today I held a workshop on how to build a TwitterBot in 30 minutes for the PythonDay, what if we build a TwitterBot that inputs the plate in the site and then scrapes the info from it automatically?"*. He said yes. With this, we built [MultaBot](https://twitter.com/MultaBot/with_replies) a TwitterBot that used to read a car plate and scrape for its traffic fines.
 
 We started with this project as a private project, but the other day I was invited by the *[Division of Law, Politics and Government](http://www.ddpg.ugto.mx/)* of my university to give a tech talk about how automation can be useful for future jobs not for only people tech related, but also for politicians and lawyers. When I remembered about this, I thought that it would be a nice example, so I wanted to give it an improvement on its base and ended with this example script that now I want to share with you.
 
@@ -38,7 +38,7 @@ I'll explain the whole code, so you'll understand what's happening all the time.
 
 Selenium will allow us to automate the control of a web browser, so the idea will be to use it to automatically open the website, input the car plate and after loading the traffic fines extract and parse them for the `pprint` output.
 
-After this, I created a function to launch the browser and scrap the info of the car plate. If `verbose` is set to `True`, the function will print details of each traffic fine:
+After this, I created a function to launch the browser and scrape the info of the car plate. If `verbose` is set to `True`, the function will print details of each traffic fine:
 
 <code data-gist-id="5cd80b39fa4b2d6ae44ddb61f9a2d59e" data-gist-hide-footer="true" data-gist-line="5-19"></code>
 
