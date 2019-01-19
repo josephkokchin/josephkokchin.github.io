@@ -2,7 +2,7 @@
 title: "My Tex setup for academic reports"
 subtitle: My personal Tex setup for academic reports.
 layout: post
-date: 2019-07-11 10:10
+date: 2020-07-11 10:10
 tag:
   - LaTex
   - Tex
