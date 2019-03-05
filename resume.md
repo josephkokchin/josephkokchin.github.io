@@ -36,15 +36,18 @@ title: Resume
 </center>
 
 ---
-<i>Última actualización: 7 de enero de 2018.</i>
+<i>Última actualización: 4 de marzo de 2019.</i>
 
 <h4>ACTIVIDADES ACTUALES:</h4>
 <ul>
   <li>
-    <b>LAB LEÓN.</b> Consultor de tecnología (Cultura Digital + Datos abiertos). Dirección General de Innovación, Municipio de León, Guanajuato. <i>Julio 2018 - presente.</i>
+    <b>CLOUDLINUX.</b> Jr. Python Dev in Alternatives Team. León, Guanajuato. <i>Febrero 2019 - presente.</i>
   </li>
   <li>
-    <b>ASISTENTE DE INVESTIGACIÓN CONACYT.</b> Asistente de investigación en Inteligencia Artificial. CIMAT A.C., Guanajuato, Gto. <i>Febrero 2018 - presente.</i>
+    <b>UNIVERSIDAD DE GUANAJUATO.</b> Analista de datos y automatización. Contraloría General, Universidad de Guanajuato, Guanajuato. <i>Febrero 2019 - presente.</i>
+  </li>
+  <li>
+    <b>LAB LEÓN.</b> Consultor de tecnología (Cultura Digital + Datos abiertos). Dirección General de Innovación, Municipio de León, Guanajuato. <i>Julio 2018 - presente.</i>
   </li>
   <li>
     <b>GITHUB CAMPUS EXPERT.</b> Miembro mexicano del programa de GitHub Campus Experts a nivel mundial (<a href="https://githubcampus.expert/RodolfoFerro/" style="color: skyblue;">githubcampus.expert/RodolfoFerro/</a>). GitHub Education. <i>Octubre 2017 – presente.</i>
@@ -65,13 +68,16 @@ title: Resume
     <b>COMITÉ ORGANIZADOR.</b> Miembro organizador del primer hackatón en Guanajuato Capital  <a href="http://guanahacks.com/" style="color: skyblue;"><i>GuanaHacks</i></a>. <i>Octubre 2017-presente.</i>
   </li>
   <li>
-    <b>FUTURE LAB.</b> Co-fundador y coordinador técnológico. <a href="http://www.ugto.mx/noticias/noticias/11851-matematicas-aplicadas-para-transformar-el- mundo-el-objetivo-de-rodolfo-ferro-alumno-ug"  style="color: skyblue;">de laboratorio de desarrollo científico y tecnológico para mejora de la sociedad.</a> Universidad de Guanajuato. <i>Abril 2017 - presente.</i>
+    <b>FUTURE LAB.</b> Co-fundador y coordinador <a href="http://www.ugto.mx/noticias/noticias/11851-matematicas-aplicadas-para-transformar-el- mundo-el-objetivo-de-rodolfo-ferro-alumno-ug"  style="color: skyblue;">de laboratorio de innovación y desarrollo científico y tecnológico para mejora de la sociedad.</a> Guanajuato. <i>Abril 2017 - presente.</i>
   </li>
 </ul>
 <h4>EDUCACIÓN:</h4>
 <ul>
   <li>
     <b>LICENCIATURA EN MATEMÁTICAS.</b> Departamento de Matemáticas, División de Ciencias Naturales y Exactas. Universidad de Guanajuato, Campus Guanajuato. <i>2011 – presente.</i>
+  </li>
+  <li>
+    <b>•	ESCUELA DE INVIERNO EN INTELIGENCIA ARTIFICIAL.</b> Asistencia al evento. Consorcio en Inteligencia Artificial, Centro de Investigación en Matemáticas A.C. <i>Febrero 2019.</i>
   </li>
   <li>
     <b>REUNIÓN DE INTELIGENCIA ARTIFICIAL Y SUS APLICACIONES (RIIAA ‘18).</b> Participación como estudiante. C3 + Universum, UNAM. <i>Agosto 2018.</i>
@@ -93,6 +99,33 @@ title: Resume
   </li>
   <li>
     <b>ESCUELA DE MODELACIÓN Y METODOS NUMÉRICOS.</b> Participación como estudiante. Centro de Investigación en Matemáticas A.C. <i>Junio 2015.</i>
+  </li>
+</ul>
+<h4>DESARROLLO PROFESIONAL / ACTIVIDADES LABORALES:</h4>
+<ul>
+  <li>
+    <b>ASISTENTE DE INVESTIGACIÓN CONACYT.</b> Asistente de investigación en Inteligencia Artificial. CIMAT A.C., Guanajuato, Gto. <i>Febrero 2018 - febrero 2019.</i>
+  </li>
+  <li>
+    <b>TALLER DE VIDEOJUEGOS CON PYTHON.</b> Instructor del taller <a href="https://rodolfoferro.xyz/PythonIMJU/" target="_blank" style="color: skyblue;"><i>"Crea tus propios videojuegos con Python"</i></a>. Casa de la Juventud, León, Gto. <i>Noviembre 2018.</i>
+  </li>
+  <li>
+    <b>UGMUN 2018.</b> <a href="https://ugmun.com/" target="_blank" style="color: skyblue;">Desarrollador web</a> y asistente técnico de la edición 2018. Universidad de Guanajuato – Campus Guanajuato, Guanajuato, Gto. <i>Septiembre 2018.</i>
+  </li>
+  <li>
+    <b>ASISTENTE DE PROFESOR.</b> En materia de Administración de Proyectos. División de Ciencias Económico- Administrativas. Universidad de Guanajuato, Campus Guanajuato. <i>Enero 2017 - Junio 2017.</i>
+  </li>
+  <li>
+    <b>CLUBES DE CIENCIA MÉXICO.</b> Instructor del taller <a href="https://rodolfoferro.github.io/ExplorandoLosSentidos/" target="_blank" style="color: skyblue;"><i>"Explorando los sentidos: ¡Ciencia y tecnología!"</i></a>, diseñado por el premio Nobel de física <a href="https://en.wikipedia.org/wiki/Frank_Wilczek" style="color: skyblue;" target="_blank">Frank Wilczek</a>. <i>Agosto 2016.</i>
+  </li>
+  <li>
+    <b>GOOGLE STUDENT AMBASSADOR LATAM.</b> Trabajo como embajador estudiantil de Google. <i>2014 - 2015.</i>
+  </li>
+  <li>
+    <b>CLUBES DE CIENCIA MÉXICO.</b> Instructor del taller <a href="https://rodolfoferro.github.io/Acelerando/" target="_blank" style="color: skyblue;"><i>"Acelerando a la ciencia con procesadores múltiples"</i></a>. <i>Agosto 2015.</i>
+  </li>
+  <li>
+    <b>CLUBES DE CIENCIA MÉXICO.</b> Instructor del taller <i>"Cristalografía: El poder de la simetría en la materia"</i>. <i>Enero 2015.</i>
   </li>
 </ul>
 <h4>PROYECTOS / EMPRENDIMIENTO / PARTICIPACIÓN EN PROGRAMAS, EVENTOS, ACTIVIDADES:</h4>
@@ -117,30 +150,6 @@ title: Resume
   </li>
   <li>
     <b>MECATE 2016.</b> Participación como <i>maker</i> en emprendimiento social. <i>Junio 2016.</i>
-  </li>
-</ul>
-<h4>DESARROLLO PROFESIONAL / ACTIVIDADES LABORALES:</h4>
-<ul>
-  <li>
-    <b>TALLER DE VIDEOJUEGOS CON PYTHON.</b> Instructor del taller <a href="https://rodolfoferro.xyz/PythonIMJU/" target="_blank" style="color: skyblue;"><i>"Crea tus propios videojuegos con Python"</i></a>. Casa de la Juventud, León, Gto. <i>Noviembre 2018.</i>
-  </li>
-  <li>
-    <b>UGMUN 2018.</b> <a href="https://ugmun.com/" target="_blank" style="color: skyblue;">Desarrollador web</a> y asistente técnico de la edición 2018. Universidad de Guanajuato – Campus Guanajuato, Guanajuato, Gto. <i>Septiembre 2018.</i>
-  </li>
-  <li>
-    <b>ASISTENTE DE PROFESOR.</b> En materia de Administración de Proyectos. División de Ciencias Económico- Administrativas. Universidad de Guanajuato, Campus Guanajuato. <i>Enero 2017 - Junio 2017.</i>
-  </li>
-  <li>
-    <b>CLUBES DE CIENCIA MÉXICO.</b> Instructor del taller <a href="https://rodolfoferro.github.io/ExplorandoLosSentidos/" target="_blank" style="color: skyblue;"><i>"Explorando los sentidos: ¡Ciencia y tecnología!"</i></a>, diseñado por el premio Nobel de física <a href="https://en.wikipedia.org/wiki/Frank_Wilczek" style="color: skyblue;" target="_blank">Frank Wilczek</a>. <i>Agosto 2016.</i>
-  </li>
-  <li>
-    <b>GOOGLE STUDENT AMBASSADOR LATAM.</b> Trabajo como embajador estudiantil de Google. <i>2014 - 2015.</i>
-  </li>
-  <li>
-    <b>CLUBES DE CIENCIA MÉXICO.</b> Instructor del taller <a href="https://rodolfoferro.github.io/Acelerando/" target="_blank" style="color: skyblue;"><i>"Acelerando a la ciencia con procesadores múltiples"</i></a>. <i>Agosto 2015.</i>
-  </li>
-  <li>
-    <b>CLUBES DE CIENCIA MÉXICO.</b> Instructor del taller <i>"Cristalografía: El poder de la simetría en la materia"</i>. <i>Enero 2015.</i>
   </li>
 </ul>
 <h4>PONENCIAS / CONGRESOS / ENCUENTROS ACADÉMICOS:</h4>
