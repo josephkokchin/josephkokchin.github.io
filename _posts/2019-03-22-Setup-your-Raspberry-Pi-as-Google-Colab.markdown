@@ -11,27 +11,25 @@ tag:
 - Tensorflow
 - Keras
 - OpenCV
-- Tutorial
 - Setup
 category: blog
 author: rodferro
-description: Setup OpenCV, Tensorflow and Keras as in Google Colab but in your Raspberry Pi, LOL
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+description: Setup OpenCV, Tensorflow and Keras as in Google Colab but in your Raspberry Pi, LOL.
 ---
 
-> Description: Setup OpenCV, Tensorflow and Keras as in Google Colab but in your Raspberry Pi, LOL
+> **Description:** Setup OpenCV, Tensorflow and Keras as in Google Colab but in your Raspberry Pi, LOL.
 
 ## Motivation (The struggle is real!)
 
 The other day I was happily training some neural networks I built with Keras using the Tensorflow backend on Google Colab. After I finished training like 4 or 5 different deep neural nets, I downloaded the trained models into my Raspberry Pi 3 Model B and realized that it was not able to compile any of these models... But Google Colab is able to compile them... 
 
-It looked pretty wierd to me at the beginning, but soon I noticed that it might be caused by the versions (for Python, Tensorflow and Keras) I was using. My Raspberry Pi was running Python 3.4 with Tensorflow 1.1.0 (compiled from scratch) and Keras 2.1.0, meanwhile Google Colab is running the following:
+It looked pretty weird to me at the beginning, but soon I noticed that it might be caused by the versions (of Python, Tensorflow and Keras) I was using. My Raspberry Pi was running Python 3.4 with Tensorflow 1.1.0 (compiled from scratch) and Keras 2.1.0, meanwhile Google Colab is running the following:
 
 <center>
   <img alt="Raspberry Pi" src="../assets/posts/raspi_colab.png" width="60%">
 </center>
 
-Anyway, after a couple of days trying some installations, after reading a lot of posts and Stack Overflow answers, I ended solving everything and writing this blog post, which I hope it becomes very helpful for those having this struggle with these installations on their *Raspis*.
+Anyway, after a couple of days trying some installations, after reading a lot of posts and Stack Overflow answers, I ended up solving everything and writing this blog post, which I hope it becomes very helpful for those having this struggle with these installations on their *Raspis*.
 
 ## Let's get started
 
