@@ -7,7 +7,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-> Computer-mathemagician ƒ[💻] · CTO @ [#FutureLab](https://www.facebook.com/f.lab.mx/) 🚀 · Digital Culture @ [#LabLeón](https://twitter.com/lableon_) · Ambassador @ [#LeónJoven](https://twitter.com/Leon_Joven) · 🚩 [GitHub Campus Expert](https://githubcampus.expert/RodolfoFerro/) · [#SoyUG](https://twitter.com/UdeGuanajuato) [#CIMAT](https://twitter.com/cimatoficial) 🇲🇽
+> ƒ[💻] Computer-mathemagician · 🚀 [Future Lab](https://futurelab.mx) co-founder · 👨🏻‍💻 [LAB León](https://twitter.com/lableon_) tech consultant · 🚩 [GitHub Campus Expert](https://githubcampus.expert/RodolfoFerro/) · 👾 [León Joven](https://twitter.com/Leon_Joven) ambassador · 🐍 Python Dev · 🔬 [Clubes de Ciencia México](https://www.clubesdeciencia.mx/) Member · [#SoyUG](https://twitter.com/UdeGuanajuato) [#CIMAT](https://twitter.com/cimatoficial) 🇲🇽
 
 <br>
 My name is [Rodolfo](https://twitter.com/FerroRodolfo/), but you may call me Rod. I am studying a BS in Mathematics at the [University of Guanajuato](http://www.ugto.mx/), although I've focused a bit on Computer Science.  I'm currently working on my thesis, which consists on developing an AI model to classify emotions with facial expressions in the wild. The idea is to propose a model which can be deployed in portable devices, such as a Raspberry Pi.
