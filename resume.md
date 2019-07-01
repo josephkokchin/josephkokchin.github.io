@@ -4,7 +4,7 @@ title: Resume
 ---
 
 <style>
-.button {
+.cvbutton {
   display: inline-block;
   padding: 13px 25px;; margin-right:5px;
   font-size: 1.2em;
@@ -19,9 +19,11 @@ title: Resume
   box-shadow: 0 9px #666;
 }
 
-.button:hover {background-color: #f44336}
+.cvbutton:hover {
+  background-color: #4CAF50
+}
 
-.button:active {
+.cvbutton:active {
   background-color: #f44336;
   box-shadow: 0 5px #555;
   transform: translateY(4px);
@@ -31,44 +33,41 @@ title: Resume
 # My résumé
 
 <center>
-<a class="button" href="/assets/docs/Rodolfo%20Ferro%20-%20CV%20(full).pdf" target="_blank"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  Full Size </span></a>
-<a class="button" href="/assets/docs/Rodolfo%20Ferro%20-%20CV%20(small).pdf" target="_blank"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  One Page </span></a>
+<a class="cvbutton" href="/assets/docs/Rodolfo%20Ferro%20-%20CV%20(full).pdf" target="_blank"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  Full Size </span></a>
+<a class="cvbutton" href="/assets/docs/Rodolfo%20Ferro%20-%20Resume.pdf" target="_blank"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  One Page </span></a>
 </center>
 
 ---
-<i>Última actualización: 4 de marzo de 2019.</i>
+<i><b>Última actualización:</b> 30 de junio de 2019 (falta actualizar sección de charlas y talleres).</i>
 
 <h4>ACTIVIDADES ACTUALES:</h4>
 <ul>
   <li>
-    <b>CLOUDLINUX.</b> Jr. Python Dev in Alternatives Team. León, Guanajuato. <i>Febrero 2019 - presente.</i>
+    <b>LAB LEÓN.</b> Coordinador de datos abiertos. Dirección General de Innovación, Municipio de León, Guanajuato. <i>Julio 2018 - presente.</i>
   </li>
   <li>
-    <b>UNIVERSIDAD DE GUANAJUATO.</b> Analista de datos y automatización. Contraloría General, Universidad de Guanajuato, Guanajuato. <i>Febrero 2019 - presente.</i>
+    <b>CONSULTOR DE TECNOLOGÍAS.</b> Consultor de tecnologías en temas de aprendizaje de máquina, automatización y datos. <i>Julio 2018 – presente.</i>
   </li>
   <li>
-    <b>LAB LEÓN.</b> Consultor de tecnología (Cultura Digital + Datos abiertos). Dirección General de Innovación, Municipio de León, Guanajuato. <i>Julio 2018 - presente.</i>
-  </li>
-  <li>
-    <b>GITHUB CAMPUS EXPERT.</b> Miembro mexicano del programa de GitHub Campus Experts a nivel mundial (<a href="https://githubcampus.expert/RodolfoFerro/" style="color: skyblue;">githubcampus.expert/RodolfoFerro/</a>). GitHub Education. <i>Octubre 2017 – presente.</i>
-  </li>
-  <li>
-    <b>COORDINADOR DE SEDE, INSTRUCTOR Y DESARROLLADOR DE SOFTWARE.</b> <a href="https://www.clubesdeciencia.mx/" target="_blank" style="color: skyblue;">Clubes de Ciencia México</a>, sede Guanajuato. <i>Enero 2015 – presente.</i>
-  </li>
-  <li>
-    <b>PROYECTO DE ESTANCIA DE INVESTIGACIÓN.</b> <i><a href="http://www.eluniversal.com.mx/ciencia-y-salud/ciencia/estudiante-mexicano-desarrolla-un-proyecto-en-harvard" style="color: skyblue;">Adapting machine learning techniques for quantum chemistry problems</a>.</i> Desarrollo de librería de predicción y calibración de propiedades moleculares para libre uso. Departamento de Química y Química Biológica. Harvard University y Universidad de Guanajuato. <i>Junio 2017 – presente.</i>
+    <b>COORDINADOR DE SEDE E INSTRUCTOR.</b> <a href="https://www.clubesdeciencia.mx/" target="_blank" style="color: skyblue;">Clubes de Ciencia México</a>, sede Guanajuato. <i>Enero 2015 – presente.</i>
   </li>
 </ul>
 <h4>ACTIVIDADES EXTRA:</h4>
 <ul>
   <li>
+    <b>FUTURE LAB.</b> Co-fundador y coordinador <a href="http://www.ugto.mx/noticias/noticias/11851-matematicas-aplicadas-para-transformar-el- mundo-el-objetivo-de-rodolfo-ferro-alumno-ug"  style="color: skyblue;">de laboratorio de innovación y desarrollo científico y tecnológico para mejora de la sociedad.</a> Guanajuato. <i>Abril 2017 - presente.</i>
+  </li>
+  <li>
+    <b>ML LEAD ENGINEER.</b> Participante de <a href="https://medium.com/omdena/building-ai-for-good-by-the-people-for-the-people-d98ad78b5001" style="color: skyblue;">reto global sobre inteligencia artificial</a> para la prevención de incendios forestales mediante la detección de árboles en imágenes satelitales. Omdena. <i>Mayo 2019-presente.</i>
+  </li>
+  <li>
+    <b>GITHUB CAMPUS EXPERT.</b> Miembro mexicano del programa de GitHub Campus Experts a nivel mundial (<a href="https://githubcampus.expert/RodolfoFerro/" style="color: skyblue;">githubcampus.expert/RodolfoFerro/</a>). GitHub Education. <i>Octubre 2017 – presente.</i>
+  </li>
+  <li>
     <b>EMBAJADOR LEÓN JOVEN.</b> Embajador León Joven por el Instituto municipal de la Juventud. León, Guanajuato. <i>Mayo 2017-presente.</i>
   </li>
   <li>
-    <b>COMITÉ ORGANIZADOR.</b> Miembro organizador del primer hackatón en Guanajuato Capital  <a href="http://guanahacks.com/" style="color: skyblue;"><i>GuanaHacks</i></a>. <i>Octubre 2017-presente.</i>
-  </li>
-  <li>
-    <b>FUTURE LAB.</b> Co-fundador y coordinador <a href="http://www.ugto.mx/noticias/noticias/11851-matematicas-aplicadas-para-transformar-el- mundo-el-objetivo-de-rodolfo-ferro-alumno-ug"  style="color: skyblue;">de laboratorio de innovación y desarrollo científico y tecnológico para mejora de la sociedad.</a> Guanajuato. <i>Abril 2017 - presente.</i>
+    <b>COMITÉ ORGANIZADOR.</b> Miembro organizador del primer hackatón en Guanajuato Capital  <a href="http://guanahacks.com/" style="color: skyblue;"><i>GuanaHacks</i></a>/<a href="https://beehack.ugto.mx/" style="color: skyblue;"><i>BeeHack</i></a>. <i>Octubre 2017-presente.</i>
   </li>
 </ul>
 <h4>EDUCACIÓN:</h4>
@@ -77,7 +76,13 @@ title: Resume
     <b>LICENCIATURA EN MATEMÁTICAS.</b> Departamento de Matemáticas, División de Ciencias Naturales y Exactas. Universidad de Guanajuato, Campus Guanajuato. <i>2011 – presente.</i>
   </li>
   <li>
-    <b>•	ESCUELA DE INVIERNO EN INTELIGENCIA ARTIFICIAL.</b> Asistencia al evento. Consorcio en Inteligencia Artificial, Centro de Investigación en Matemáticas A.C. <i>Febrero 2019.</i>
+    <b>SUMMER INTERN.</b> <i><a href="http://www.eluniversal.com.mx/ciencia-y-salud/ciencia/estudiante-mexicano-desarrolla-un-proyecto-en-harvard" style="color: skyblue;">Adapting machine learning techniques for quantum chemistry problems</a>.</i> Desarrollo de librería de predicción y calibración de propiedades moleculares para libre uso. Departamento de Química y Química Biológica. Harvard University y Universidad de Guanajuato. <i>Junio 2017 – agosto 2017.</i>
+  </li>
+  <li>
+    <b>MONGODB FOR PYTHON DEVELOPERS COURSE (M220P).</b> Learned the essentials of Python application development with MongoDB (<a href="http://university.mongodb.com/course_completion/252af203-c8e8-4169-b178-fa8e59410387" style="color: skyblue;">course completion confirmation</a>). MongoDB University. <i>Junio 2019.</i>
+  </li>
+  <li>
+    <b>ESCUELA DE INVIERNO EN INTELIGENCIA ARTIFICIAL.</b> Asistencia al evento. Consorcio en Inteligencia Artificial, Centro de Investigación en Matemáticas A.C. <i>Febrero 2019.</i>
   </li>
   <li>
     <b>REUNIÓN DE INTELIGENCIA ARTIFICIAL Y SUS APLICACIONES (RIIAA ‘18).</b> Participación como estudiante. C3 + Universum, UNAM. <i>Agosto 2018.</i>
@@ -103,6 +108,12 @@ title: Resume
 </ul>
 <h4>DESARROLLO PROFESIONAL / ACTIVIDADES LABORALES:</h4>
 <ul>
+  <li>
+    <b>CLOUDLINUX.</b> Jr. Python Dev in Alternatives Team. León, Guanajuato. <i>Febrero 2019 - mayo 2019.</i>
+  </li>
+  <li>
+    <b>UNIVERSIDAD DE GUANAJUATO.</b> Analista de datos y automatización. Contraloría General, Universidad de Guanajuato, Guanajuato. <i>Febrero 2019 - abril 2019.</i>
+  </li>
   <li>
     <b>ASISTENTE DE INVESTIGACIÓN CONACYT.</b> Asistente de investigación en Inteligencia Artificial. CIMAT A.C., Guanajuato, Gto. <i>Febrero 2018 - febrero 2019.</i>
   </li>
@@ -344,13 +355,13 @@ title: Resume
     <b>CLUBES DE CIENCIA MÉXICO. </b> Miembro del <i>#TeamGuanajuato</i>. <i>2015 - presente.</i>
   </li>
   <li>
-    <b>SOCIEDAD CIENTÍFICA JUVENIL. </b> Miembro de la SCJ León. <i>2016 - presente.</i>
+    <b>SOCIEDAD CIENTÍFICA JUVENIL. </b> Miembro de la SCJ León. <i>2016 - 2017.</i>
   </li>
   <li>
     <b>ESPIRAL FORO UNIVERSITARIO. </b> Coordinador de Difusión. Universidad de Guanajuato. <i>2016 - 2017.</i>
   </li>
   <li>
-  <b>MATEMORFOSIS. </b> Servicio Social Universitario. Talleres de matemáticas para niños. Centro de Investigación en Matemáticas A.C. <i>2014.</i>
+  <b>MATEMORFOSIS. </b> Talleres de matemáticas para niños. Centro de Investigación en Matemáticas A.C. <i>2014.</i>
 </li>
 </ul>
 <h4>REGISTRO DE PROPIEDAD INTELECTUAL / DERECHOS DE AUTOR:</h4>
