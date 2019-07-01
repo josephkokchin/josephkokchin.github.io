@@ -17,7 +17,11 @@ description: "M220P: MongoDB for Python Developers Course"
 
 <!-- Button style -->
 <style>
+<<<<<<< HEAD
   .coursebutton {
+=======
+  .button {
+>>>>>>> a26b2e1768ca7a12f6815520332d629bddc6e8c1
     display: inline-block;
     border-radius: 4px;
     background-color: #008CBA;
@@ -32,7 +36,11 @@ description: "M220P: MongoDB for Python Developers Course"
     margin: 5px;
   }
 
+<<<<<<< HEAD
   .coursebutton:hover {
+=======
+  .button:hover {
+>>>>>>> a26b2e1768ca7a12f6815520332d629bddc6e8c1
     background-color: #4CAF50;
   }
 </style>
