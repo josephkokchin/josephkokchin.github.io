@@ -1,9 +1,9 @@
 # main text of home
-name: Rodolfo Ferro
-bio: "Let's build our future. 🚀"
+name: Joseph Goh
+bio: "Currently based in Singapore, graduated from University of Manchester with Master in Chemical Engineering and experienced in Fintech & Banking industry."
 
 # twitter summary info
-description: "ƒ[💻] Computer-mathemagician · 🚀 Future Lab co-founder · 👨🏻‍💻 LAB León tech consultant · 🚩 GitHub Campus Expert · 👾 León Joven ambassador · 🐍 Python Dev · 🔬 Clubes de Ciencia México Member · #SoyUG #CIMAT 🇲🇽"
+description: "Data Scientist 📈 · 🚀 Blogger ✍️ · Enginner turned Programmer 👨‍💻 · 🐍 Python Dev · Foodie 🍚 · Malaysian 🇲🇾"
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,12 +16,12 @@ resume: true
 resume-external: false
 resume-url: resume
 
-url: https://rodolfoferro.github.io
+url: https://josephkokchin.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-135564018-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -29,18 +29,18 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: rodolfoferro-github-io # enter this from your disqus account
+  shortname: https-josephkokchin-github-io # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: FerroRodolfo
-github: RodolfoFerro
-linkedin: rodolfoferro
-google: RodolfoFerro
-medium: FerroRodolfo
-email: rodolfoferroperez@gmail.com
-youtube: channel/UC3Q7iZXB950Bvtjpml9jqZg
+twitter: josephkchin
+github: josephkokchin
+linkedin: josephkokchingoh
+#google: RodolfoFerro
+medium: josephkchin
+email: joseph.kokchin.goh@gmail.com
+#youtube: channel/UC3Q7iZXB950Bvtjpml9jqZg
 # instagram: myinstagram
 # pinterest: mypinterest
 # spotify: myspotify
@@ -52,17 +52,17 @@ youtube: channel/UC3Q7iZXB950Bvtjpml9jqZg
 # lanyrd: mylanyrd
 
 authors:
-    rodferro:
-        name: Rodolfo Ferro
+    josephkchin:
+        name: Joseph Goh
         bio: With great power comes great responsibility.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: FerroRodolfo
+        twitter: josephkchin
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -99,6 +99,18 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-sitemapn
 
 jekyll-mentions:
     base_url: ''
+
+# Liquid-LaTeX plugin
+liquid_latex:
+  debug: false
+  density: 300
+  usepackages: pst-all,pst-3dplot
+  output_directory: /res/latex
+  latex_cmd: "latex -interaction=nonstopmode $texfile &> /dev/null"
+  dvips_cmd: "dvips -E $dvifile -o $epsfile &> /dev/null"
+  convert_cmd: "convert -density $density $epsfile $pngfile &> /dev/null"
+  temp_filename: "latex_temp"
