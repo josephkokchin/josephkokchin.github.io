@@ -89,7 +89,7 @@ I enjoyed developing data-driven solutions and productivity hacks. My codes are 
     <b>Sensor Fusion</b>: Master’s project, constructed optimisation model using Extended Kalman filter, and applied it to froth flotation plant with significant improvement in performance.
   </li>
   <li>
-    <b><a href="{{ site.url }}/prosthetic-limb">Engineering product design</a></b>: designed a extractive distillatoion column for a butaience production plant.
+    <b>Engineering product design</b>: designed a extractive distillatoion column for a butaience production plant.
   </li>
 </ul>
 </p>
