@@ -75,7 +75,6 @@ I am an adaptable professional that embraces teamwork, but also enjoys working i
 I enjoyed developing data-driven solutions and productivity hacks. My codes are available on <a href="https://github.com/josephkokchin" target="_blank">GitHub</a>.
 <ul>
   
-   <!--<li><b>Deep learning - <i>TensorFlow</i></b>: PhD project, analyzing spatio-temporal climate data by supervised learning.</li>-->
   <li>
   <b>Chatbot</b>: building a telegram bot to help answering the questions Malaysian have everyday such as upcoming public holidays, weather forecast and train time and fares.
   </li>
