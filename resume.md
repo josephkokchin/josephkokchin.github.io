@@ -90,6 +90,7 @@ I enjoyed developing data-driven solutions and productivity hacks. My codes are 
   </li>
   <li>
     <b><a href="{{ site.url }}/prosthetic-limb">Engineering product design</a></b>: designed a extractive distillatoion column for a butaience production plant.
+  </li>
 </ul>
 </p>
 
