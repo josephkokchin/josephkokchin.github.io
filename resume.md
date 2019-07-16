@@ -30,7 +30,7 @@ title: Resume
 }
 </style>
 
-# Joseph Goh
+# Resume
 
 <center>
 <a class="cvbutton" href="/assets/docs/Resume-KokChinGoh(Full).pdf" target="_blank"><span><img src="../assets/images/download.png" height="18px" style="padding-top:5px; margin-right:5px;">  Full Size </span></a>
