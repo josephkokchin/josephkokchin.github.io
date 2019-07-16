@@ -7,7 +7,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-> Data Scientist 📈 · 🚀 Blogger ✍️ · Enginner turned Programmer 👨‍💻 · 🐍 Python Dev · Foodie 🍚 · Malaysian 🇲🇾
+> Data Scientist 📈 · 🚀 Blogger ✍️ · Enginner turned Programmer 👨‍💻 · Malaysian 🇲🇾
 
 <br>
 <h4>Background</h4>
