@@ -7,12 +7,19 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+> Data Scientist 📈 · 🚀 Blogger ✍️ · Enginner turned Programmer 👨‍💻 · 🐍 Python Dev · Foodie 🍚 · Malaysian 🇲🇾
 
 <br>
+<h4>Background</h4>
+
+
+
+<h4>Interest</h4>
+
 
 
 <br>
 <center>
-Please do not hesitate to contact me: <br>
+If you want to know more about me or have an exciting opportunities, please do not hesitate to contact me: <br>
 {% include social-links.html %}
 </center>
